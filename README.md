@@ -1,6 +1,5 @@
 # mops-or-dogs
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 ![](https://github.com/Users/alexandra/Desktop/51b9609673cfea65d617b5b02ffda8a2.gif)
  
 - Keras ML model built on Tensorflow
